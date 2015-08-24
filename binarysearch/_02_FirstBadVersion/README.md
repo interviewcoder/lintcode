@@ -17,7 +17,7 @@ To make life easier, we can consider the very easy situation, only one number ex
           isBad  false                false    (null)
     expect = 2 => return left + 1 (return the order not the index of bad version)
  ********************************************************************    
- * Summary: return left        
+ * Summary: return left + 1      
  */
  
 ```

@@ -19,6 +19,7 @@
  */
 package _02_FirstBadVersion;
 
+/** see test {@link _02_FirstBadVersion.SolutionTest } */
 public class Solution {
     
     public int findFirstBadVersion(int n) {
