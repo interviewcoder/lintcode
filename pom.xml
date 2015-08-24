@@ -44,19 +44,19 @@
     </pluginRepository>
   </pluginRepositories>
   <build>
-    <sourceDirectory>/Users/Steven/Documents/Github/interview_coder/lintcode/binarysearch</sourceDirectory>
-    <scriptSourceDirectory>/Users/Steven/Documents/Github/interview_coder/lintcode/scripts</scriptSourceDirectory>
-    <testSourceDirectory>/Users/Steven/Documents/Github/interview_coder/lintcode/binarysearch</testSourceDirectory>
-    <outputDirectory>/Users/Steven/Documents/Github/interview_coder/lintcode/bin</outputDirectory>
-    <testOutputDirectory>/Users/Steven/Documents/Github/interview_coder/lintcode/bin</testOutputDirectory>
+    <sourceDirectory>binarysearch</sourceDirectory>
+    <scriptSourceDirectory>scripts</scriptSourceDirectory>
+    <testSourceDirectory>binarysearch</testSourceDirectory>
+    <outputDirectory>bin</outputDirectory>
+    <testOutputDirectory>bin</testOutputDirectory>
     <resources>
       <resource>
-        <directory>/Users/Steven/Documents/Github/interview_coder/lintcode/binarysearch</directory>
+        <directory>binarysearch</directory>
       </resource>
     </resources>
     <testResources>
       <testResource>
-        <directory>/Users/Steven/Documents/Github/interview_coder/lintcode/binarysearch</directory>
+        <directory>binarysearch</directory>
       </testResource>
     </testResources>
     <directory>target</directory>
