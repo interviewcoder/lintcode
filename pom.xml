@@ -44,22 +44,22 @@
     </pluginRepository>
   </pluginRepositories>
   <build>
-    <sourceDirectory>binarysearch</sourceDirectory>
+    <sourceDirectory>02_binarysearch</sourceDirectory>
     <scriptSourceDirectory>scripts</scriptSourceDirectory>
-    <testSourceDirectory>binarysearch</testSourceDirectory>
-    <outputDirectory>bin</outputDirectory>
-    <testOutputDirectory>bin</testOutputDirectory>
+    <testSourceDirectory>02_binarysearch</testSourceDirectory>
+    <outputDirectory>targets</outputDirectory>
+    <testOutputDirectory>targets</testOutputDirectory>
     <resources>
       <resource>
-        <directory>binarysearch</directory>
+        <directory>02_binarysearch</directory>
       </resource>
     </resources>
     <testResources>
       <testResource>
-        <directory>binarysearch</directory>
+        <directory>02_binarysearch</directory>
       </testResource>
     </testResources>
-    <directory>target</directory>
+    <directory>targets</directory>
     <finalName>lintcode-0.0.1-SNAPSHOT</finalName>
     <pluginManagement>
       <plugins>
@@ -96,7 +96,7 @@
               <source>1.7</source>
               <target>1.7</target>
               <includes>
-                <include>*/*.java</include>
+                <include>**/*.java</include>
               </includes>
             </configuration>
           </execution>
