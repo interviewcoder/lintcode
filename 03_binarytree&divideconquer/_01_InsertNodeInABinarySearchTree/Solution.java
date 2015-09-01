@@ -10,11 +10,11 @@
  ***************************************************************************
  * {@link http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree/# }
  */
-package InsertNodeInABinarySearchTree;
+package _01_InsertNodeInABinarySearchTree;
 
 import com.leetcode.TreeNode;
 
-/** see test {@link InsertNodeInABinarySearchTree.SolutionTest } */
+/** see test {@link _01_InsertNodeInABinarySearchTree.SolutionTest } */
 public class Solution {
 
     public TreeNode insertNode(TreeNode root, TreeNode node) {

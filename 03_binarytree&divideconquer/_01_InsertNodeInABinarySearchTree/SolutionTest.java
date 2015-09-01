@@ -1,4 +1,4 @@
-package InsertNodeInABinarySearchTree;
+package _01_InsertNodeInABinarySearchTree;
 
 import static org.junit.Assert.*;
 
@@ -12,7 +12,7 @@ import com.leetcode.TreeNode;
 
 public class SolutionTest {
     
-    /** Test method for {@link InsertNodeInABinarySearchTree.Solution } */
+    /** Test method for {@link _01_InsertNodeInABinarySearchTree.Solution } */
     Solution solution;
 
     @Rule
