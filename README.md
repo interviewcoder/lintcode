@@ -8,3 +8,8 @@ Selected problems that are included in LintCode but are not included in Leetcode
 - OJ-accepted solutions (may contain different solutions for one problem)
 - unit tests for solutions
 - not too brief explanation for problem
+
+| problem | solution | tags | note |
+| :--- | ---- | ---------| ----- |
+| 03.01 | [Insert Node in Binary Search Tree](https://github.com/interviewcoder/lintcode/blob/master/03_binarytree%26divideconquer/_01_InsertNodeInABinarySearchTree/Solution.java) | BST; `LintCode Copyright` | |
+| 03.02 | [Search Range In Binary Search Tree](https://github.com/interviewcoder/lintcode/blob/master/03_binarytree%26divideconquer/_02_SearchRangeInBinarySearchTree/Solution.java) | Binary Search Tree | in-order + pruning |
