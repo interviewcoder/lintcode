@@ -13,4 +13,4 @@ Selected problems that are included in LintCode but are not included in Leetcode
 | --- | ---- | ---------| ----- |
 | 03.01 | [Insert Node in Binary Search Tree](https://github.com/interviewcoder/lintcode/blob/master/03_binarytree%26divideconquer/_01_InsertNodeInABinarySearchTree/Solution.java) | BST `LintCode Copyright` | |
 | 03.02 | [Search Range In Binary Search Tree](https://github.com/interviewcoder/lintcode/blob/master/03_binarytree%26divideconquer/_02_SearchRangeInBinarySearchTree/Solution.java) | Binary Search Tree | in-order + pruning |
-| 04.01 | [Longest Increasing Subsequence](https://github.com/interviewcoder/lintcode/blob/master/04dynamicprogrammingI/_01_LongestIncreasingSubsequence/Solution.java) | Dynamic Programming | |
+| 04.01 | [Longest Increasing Subsequence](https://github.com/interviewcoder/lintcode/blob/master/04_dynamicprogrammingI/_01_LongestIncreasingSubsequence/Solution.java) | Dynamic Programming | |
